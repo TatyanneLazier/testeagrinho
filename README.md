@@ -1,2 +1,2 @@
 **teste**
-<ins> alunos teste </ins>
+<p> <ins> alunos teste </ins> </p>
